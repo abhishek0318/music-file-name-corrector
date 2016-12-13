@@ -1,5 +1,5 @@
-# music-file-name-corrector
+# Music file name corrector
 Python script to correct all music file names in a directory.
 
-INSTALLATION :
-Just put this script in the directory containing and run it.
+# Installation :
+Just put this script in the directory containing music and execute it.
